@@ -1,0 +1,1 @@
+docker exec -it atcorder g++ -std=c++14 $1
